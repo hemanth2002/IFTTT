@@ -20,7 +20,7 @@ STEP 3:
 
 Go to create applet.
 
-![My Applets - IFTTT - Google Chrome 09-12-2022 13_03_28 (3)](https://user-images.githubusercontent.com/72966457/206652112-27dea08d-bd95-47e1-8141-47d2097da2bc.png)
+![My Applets - IFTTT - Google Chrome 09-12-2022 13_03_28 (3)](https://user-images.githubusercontent.com/72966457/206680854-0ab64c9a-5a9c-471b-92d6-c3fef2a3aeee.png)
 
 
 STEP 4:
@@ -91,3 +91,15 @@ save and continue.
 ![My Applets - IFTTT - Google Chrome 09-12-2022 13_07_26 (2)](https://user-images.githubusercontent.com/72966457/206660834-fab16472-07b7-46e9-9919-444ab9f33d4d.png)
 ![My Applets - IFTTT - Google Chrome 09-12-2022 13_07_32 (2)](https://user-images.githubusercontent.com/72966457/206661012-c9c281a1-f960-4bd9-abe9-68fa3e9062ec.png)
 ![My Applets - IFTTT - Google Chrome 09-12-2022 13_07_42 (2)](https://user-images.githubusercontent.com/72966457/206661105-774be010-39ec-4394-8ebe-8149c503a901.png)
+
+STEP 12:
+
+now click on the web hook icon.
+
+![My Applets - IFTTT - Google Chrome 09-12-2022 13_07_42 (2)](https://user-images.githubusercontent.com/72966457/206679970-6306b391-22c6-4170-8b2f-2972da3ce743.png)
+
+STEP 13:
+
+click documentation:
+
+![Webhooks works better with IFTTT - Google Chrome 09-12-2022 15_55_13 (3)](https://user-images.githubusercontent.com/72966457/206681587-d06f989b-87b5-45dd-bfc0-9c8406072b6b.png)
