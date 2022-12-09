@@ -86,7 +86,7 @@ Choose the type of transport and location.
 
 STEP 11:
 
-save and continue.
+Save and continue , meanwhile download the "IFTTT" app in your smartphone and login with the same account you logged in here. (make sure you have installed google maps already).
 
 ![My Applets - IFTTT - Google Chrome 09-12-2022 13_07_26 (2)](https://user-images.githubusercontent.com/72966457/206660834-fab16472-07b7-46e9-9919-444ab9f33d4d.png)
 ![My Applets - IFTTT - Google Chrome 09-12-2022 13_07_32 (2)](https://user-images.githubusercontent.com/72966457/206661012-c9c281a1-f960-4bd9-abe9-68fa3e9062ec.png)
@@ -103,3 +103,34 @@ STEP 13:
 click documentation:
 
 ![Webhooks works better with IFTTT - Google Chrome 09-12-2022 15_55_13 (3)](https://user-images.githubusercontent.com/72966457/206681587-d06f989b-87b5-45dd-bfc0-9c8406072b6b.png)
+
+STEP 14:
+
+Navigate to "{event}" in the post and get web request URL.
+
+Change the " {event} " to " button_triggered " which we previously entered in the webhook trigger command. (note: The curly brackets should also be removed and the trigger command is case sesitive and sholud be same as the one we previously entered. ) 
+
+![IFTTT Maker Webhooks - Google Chrome 09-12-2022 15_58_09 (2)](https://user-images.githubusercontent.com/72966457/206728807-c3298956-8425-4b6f-b984-bca42d0cc90d.png)
+
+After changing.
+
+![IFTTT Maker Webhooks - Google Chrome 09-12-2022 20_11_50 (2)](https://user-images.githubusercontent.com/72966457/206729536-ff172ab6-3da4-493f-8d3a-f3e28d850c6f.png)
+
+Now hit "test" and check wheather the set location open in your phone. (keep the phone unlocked and "IFTTT" app running and connected to internet).
+
+Make sure to turn on "display over other apps" ON on your phone and turn OFF "battery saver".
+
+STEP 15:
+
+Now for the coding part
+
+Type your wifi ssid, password, https URL in the code within the semicolon.
+
+![IFTTT _ Arduino IDE 2 0 3 09-12-2022 20_48_16](https://user-images.githubusercontent.com/72966457/206734719-245b7573-e211-446a-b6ee-fb87acd35bb2.png)
+
+Select the board type and upload.
+
+Thats it the project is completed turn on the esp 32 or 8266 and check if works.
+
+Everytime the reset button is pressed in the board the trigger is send and map opens everytime.
+note: the IFTTT is not real time so the action can take some time depends upon the traffic. 
