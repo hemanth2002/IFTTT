@@ -134,3 +134,6 @@ Thats it the project is completed turn on the esp 32 or 8266 and check if works.
 
 Everytime the reset button is pressed in the board the trigger is send and map opens everytime.
 note: the IFTTT is not real time so the action can take some time depends upon the traffic. 
+
+The whole process is mobile friendly and can be done by using your smartphone
+To program the board use this app https://play.google.com/store/apps/details?id=name.antonsmirnov.android.arduinodroid2 and OTG cable to connect with the board and phone.
